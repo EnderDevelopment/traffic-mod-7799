@@ -1,0 +1,9 @@
+{
+  "item.trafficmod.road": "Road",
+  "item.trafficmod.traffic_sign": "Traffic Sign",
+  "item.trafficmod.traffic_light": "Traffic Light",
+  "item.trafficmod.police_station": "Police Station",
+  "item.trafficmod.hospital": "Hospital",
+  "item.trafficmod.gas_station": "Gas Station",
+  "item.trafficmod.editable_sign": "Editable Sign"
+}

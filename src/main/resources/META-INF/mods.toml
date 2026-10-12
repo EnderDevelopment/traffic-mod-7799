@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="All rights reserved"
+[[mods]]
+modId="trafficmod"
+version="${file.jarVersion}"
+displayName="Traffic Mod"
+logoFile="assets/trafficmod/icon.png"
+credits=""
+authors="ttstori19"
+description='''
+Adds traffic features to Minecraft.
+'''
+
+[[dependencies.trafficmod]]
+modId="forge"
+mandatory=true
+versionRange="[43,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.trafficmod]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.19.2,1.20)"
+ordering="NONE"
+side="BOTH"
